@@ -38,7 +38,7 @@
 1. Unfreeze fewer layers: instead of unfreezing from layer 100, we will only unfreeze the layers at the very end of the network. UNfreezing from 200 layers is much safer.
 2. increase fine tuning epochs: Give the model more time to adapt at the very low learning rate. Increasing the fine-tuning epochs from 10 to 15 or 20 can be beneficial.
 
-category according to the widely accepted Landis and Koch scale:
+Category according to the widely accepted Landis and Koch scale:
 0.0 – 0.20: Slight agreement
 0.21 – 0.40: Fair agreement
 0.41 – 0.60: Moderate agreement

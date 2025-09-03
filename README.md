@@ -1,1 +1,2 @@
 # diabetic-retinopathy-MTech
+Diabetic retinopathy is a leading cause of blindness and early detection is crucial. Currently, diagnosis requires a trained opthalmologist to manually examine images of the back of the eye(fundus images) and grade them based on the presence of features like microaneurysms, hemorrhages, and exudates. This process is time-consuming, subjective, and requires expert availability, making large-scale screening difficult.
